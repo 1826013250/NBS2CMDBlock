@@ -16,3 +16,6 @@
 - 选择游戏内呈现方式（目前仅会按照原音轨的样式布置方块矩阵）
 - 更加人性化的TUI
 - English Support
+
+# 游戏内截屏
+![screenshot0 - 在Minecraft内的截屏，展示了已经加载了两个结构的地图](./screenshot0.png)
